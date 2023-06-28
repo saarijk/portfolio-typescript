@@ -8,15 +8,15 @@ module.exports = {
         "gray-50": "#EFE6E6",
         "gray-100": "#DFCCCC",
         "gray-500": "#5E0000",
-        "primary-100": "#FFE1E0",
-        "primary-300": "#FFA6A3",
-        "primary-500": "#FF6B66",
-        "secondary-400": "#FFCD5B",
-        "secondary-500": "#FFC132",
+        "primary-100": "#D1D8FF",
+        "primary-300": "#A3B1FF",
+        "primary-500": "#667DFF",
+        "secondary-400": "#478DB2",
+        "secondary-500": "#33657F",
       },
       backgroundImage: (theme) => ({
         "gradient-yellowred":
-          "linear-gradient(90deg, #FF616A 0%, #FFC837 100%)",
+          "linear-gradient(90deg, #D1D8FF 0%, #D1D8FF 100%)",
         "mobile-home": "url('./assets/HomePageGraphic.png')",
       }),
       fontFamily: {
